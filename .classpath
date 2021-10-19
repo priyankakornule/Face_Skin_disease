@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/mail_1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-math3-3.6.1-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-math3-3.6.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-math3-3.6.1-test-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-math3-3.6.1-tests.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-math3-3.6.1-tools.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/ImageClassification.jar" sourcepath="WebContent/WEB-INF/lib/ImageClassification.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/log4j-1.2.14.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/log4j-1.2.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/opencv-2411.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/simpleimage-1.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/weka-src.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/weka.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/bcmail-jdk14-1.38.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/bcprov-jdk14-1.38.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/bctsp-jdk14-1.38.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/itextpdf-5.0.6.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
